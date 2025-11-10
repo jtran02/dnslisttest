@@ -1,0 +1,8 @@
+﻿!Allowlist Test by jtran02
+! Updated on 5PM, Nov 10, 2025.
+!
+! 
+========================================================================
+airnavradar.com
+icanhazip.com
+whatismyipaddress.com
