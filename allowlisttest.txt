@@ -6,11 +6,11 @@
 airnavradar.com
 tiles1.airnavradar.com
 tiles2.airnavradar.com
-tiles2.squadrats.com
 tiles3.airnavradar.com
 tiles4.airnavradar.com
 tiles5.airnavradar.com
 live.airnavradar.com
 icanhazip.com
 whatismyipaddress.com
+
 
