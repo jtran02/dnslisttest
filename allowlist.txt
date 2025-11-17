@@ -1,16 +1,21 @@
 ﻿!Allowlist Test by jtran02
-! Updated at 5:35PM, Nov 12, 2025.
+! Updated at 12:00PM, Nov 16, 2025.
 !
 ! 
 ========================================================================
 airnavradar.com
+bfasset.costco-static.com
+homedepot-v8-api.pointr.cloud
+homedepot.tt.omtrdc.net
+swasc.homedepot.com
+live.airnavradar.com
 tiles1.airnavradar.com
 tiles2.airnavradar.com
 tiles3.airnavradar.com
 tiles4.airnavradar.com
 tiles5.airnavradar.com
-live.airnavradar.com
-icanhazip.com
-whatismyipaddress.com
+tempest.earthdata3.com
+
+
 
 
